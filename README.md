@@ -89,32 +89,16 @@ fun_fact: "Training models while debugging React hooks & sipping chai ☕🤖"
 <tr>
 <td width="50%">
 
-**[AI-Powered Smart Assistant & Docs Query](https://github.com/Anny-card/ai-smart-assistant)**<br>
-Full-stack conversational application with RAG (Retrieval-Augmented Generation) to summarize and chat with custom documents using Gemini API & LangChain.<br><br>
-`Next.js` `FastAPI` `LangChain` `TailwindCSS`
+**[Alumni Management System](https://github.com)**<br>
+Developed a multi-user software network using Laravel and PHP. Implemented full database structural design to manage alumni data seamlessly.<br><br>
+`PHP` `Laravel` `MySQL`
 
 </td>
 <td width="50%">
 
-**[IntelliCommerce - Modern E-Commerce Platform](https://github.com/Anny-card/intellicommerce)**<br>
-Full-stack e-commerce web app featuring AI product recommendations, secure Stripe payments, and admin dashboard.<br><br>
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[AI Image Classifier & Visual Inspector](https://github.com/Anny-card/ai-image-classifier)**<br>
-Web-based interactive machine learning app for real-time image recognition and classification using deep neural networks.<br><br>
-`Python` `PyTorch` `Flask` `OpenCV`
-
-</td>
-<td width="50%">
-
-**[TaskMatrix - Team Collaboration SaaS](https://github.com/Anny-card/taskmatrix-saas)**<br>
-Modern project management app with real-time updates via WebSockets, Kanban boards, and role-based authentication.<br><br>
-`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+**[Campus Connect](https://github.com)**<br>
+Developed a campus lost-and-found application to help students report lost belongings and share details of found items to reconnect easily.<br><br>
+`HTML` `CSS` `JavaScript` `PHP`
 
 </td>
 </tr>
